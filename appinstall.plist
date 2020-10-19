@@ -13,7 +13,7 @@
             <key>url</key>
            <string>https://drive.google.com/uc?id=1V7XCdf5pvx2e4DKg1uPaRLzw0NnuAMq9&export=download</string>
           </dict>
-          <!--<dict>
+          <dict>
             <key>kind</key>
             <string>full-size-image</string>
             <key>needs-shine</key>
@@ -28,7 +28,7 @@
             <false/>
             <key>url</key>
             <string>https://pbs.twimg.com/profile_images/1185547625606475776/q-6kb36l_200x200.jpg</string>
-          </dict>-->
+          </dict>
         </array>
         <key>metadata</key>
         <dict>
